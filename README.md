@@ -1,4 +1,4 @@
-# Hello.
+# Hello
 
 ## I am Felipe Majer — or Yuji Oda.
 
