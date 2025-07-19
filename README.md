@@ -6,7 +6,7 @@ I’m currently a 2nd year student at ETEC Professor Camargo Aranha, with an int
 - Coding
 - AI devlopment
 - Machine learning
-- Japanese 日本語
+- Japanese
 <br>
 
 ## *Currently studying*
