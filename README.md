@@ -1,6 +1,6 @@
 # Hello
 
-## I am Felipe Majer — or Yuji Oda.
+## I am Felipe Majer — or Yuji Oda
 
 I’m currently a 2nd year student at ETEC Professor Camargo Aranha, with an interest in coding and AI development.
 <br>
