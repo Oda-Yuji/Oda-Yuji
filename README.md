@@ -12,6 +12,10 @@ I’m currently a 2nd year student at ETEC Professor Camargo Aranha, with an int
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oda-Yuji&layout=compact&langs_count=7&theme=dracula)](https://github.com/Oda-Yuji)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oda-Yuji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Oda-Yuji)
+<!--
 <div>
 <a href="https://github.com/Oda-Yuji">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oda-Yuji&layout=compact&langs_count=7&theme=dracula"/>
