@@ -14,10 +14,10 @@ I’m currently a 2nd year student at ETEC Professor Camargo Aranha, with an int
 
 <p align="center">
   <a href="https://github.com/Oda-Yuji">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oda-Yuji&layout=compact&langs_count=7&theme=dracula" width="400" right-margin="50"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oda-Yuji&layout=compact&langs_count=7&theme=dracula" width="400" />
   </a>
   <a href="https://github.com/Oda-Yuji">
-    <img src="https://github-readme-stats.vercel.app/api?username=Oda-Yuji&show_icons=true&theme=dracula" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Oda-Yuji&show_icons=true&theme=dracula" width="400" />
   </a>
 </p>
 <!--
