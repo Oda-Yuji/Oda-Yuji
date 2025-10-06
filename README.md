@@ -20,13 +20,3 @@ I’m currently a 2nd year student at ETEC Professor Camargo Aranha, with an int
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oda-Yuji&layout=compact&langs_count=7&theme=dracula" width="400" />
   </a>
 </p>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oda-Yuji&layout=compact&langs_count=7&theme=dracula)](https://github.com/Oda-Yuji) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oda-Yuji&show_icons=true&theme=dracula)](https://github.com/Oda-Yuji)
-<div>
-<a href="https://github.com/Oda-Yuji">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oda-Yuji&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Oda-Yuji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<!--
-![Snake animation](https://github.com/Oda-Yuji/Oda-Yuji/blob/output/github-contribution-grid-snake.svg)
--->
