@@ -2,7 +2,7 @@
 
 ## I am Felipe Majer — or Yuji Oda
 
-I’m currently a 2nd year student at ETEC Professor Camargo Aranha, with an interest in:
+I’m currently a 3rd year student at Etec Professor Camargo Aranha, with an interest in:
 - Coding
 - AI devlopment
 - Machine learning
